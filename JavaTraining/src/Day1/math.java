@@ -6,7 +6,7 @@ public class math {
 		
 		double Area;
 		double Perimeter;
-		double Radius = 5;
+		double Radius = 6;
 		
 		
 		Area = 3.14 * Math.pow(5 ,2);
